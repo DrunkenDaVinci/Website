@@ -4,7 +4,7 @@ color: white;
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
-width: 80%;
+width: 90%;
 max-width: 800px;
 height: 20%;
 padding: 20px;
@@ -27,5 +27,13 @@ h2{
 display: block;
 text-align: center;
 font-size: 0.8em;
-max width: 50%;
+max width: 70%;
+}
+.avatar{
+float: left;
+Width: 70%;
+}
+.nav{
+float: right;
+width: 20%;
 }
