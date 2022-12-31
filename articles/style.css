@@ -29,11 +29,11 @@ font-weight: bold;
 }
 .redindent{
 border-left: 1px solid red;
-padding-left: 1px;
+padding-left: 10px;
 }
 .blueindent{
 border-left: 1px solid blue;
-padding-left: 1px;
+padding-left: 10px;
 }
 p{
 font-size: 1em;
