@@ -12,6 +12,10 @@ margin: 20px auto;
 max-width: 800px;
 Border: 1px solid white;
 }
+.break{
+border-bottom: 1px solid white;
+padding bottom: 1px;
+}
 .date{
 border-bottom: 1px solid white;
 padding-bottom: 1px;
