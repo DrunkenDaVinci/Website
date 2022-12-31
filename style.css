@@ -5,6 +5,7 @@ background-size: cover;
 background-position: center;
 background-attachment: fixed;
 width: 80%;
+max-width: 800px;
 height: 20%;
 padding: 20px;
 margin: 20px auto;
