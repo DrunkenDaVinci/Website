@@ -1,0 +1,12 @@
+body{
+background-color: black;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+width: 20%;
+height: 20%
+font-family: source sans Pro, sans-serif;
+padding: 20px;
+margin: 20px auto;
+max width: 800px;
+}
