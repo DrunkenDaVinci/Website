@@ -21,8 +21,9 @@ padding-bottom: 1px;
 font-weight: bold;
 }
 .back{
+display: block;
 border-top: 1px solid white;
-padding-top: 1px;
+padding-top: 20px;
 font-weight: bold;
 text-align: center;
 margin-left: auto; 
