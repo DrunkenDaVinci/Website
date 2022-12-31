@@ -47,7 +47,7 @@ display: block;
 float: right;
 width: 20%;
 max-width: 168px;
-padding-top: 104px;
+padding-top: 94px;
 padding-left: 2px;
 padding-bottom: 20px;
 padding-right: 20px;
@@ -72,5 +72,5 @@ width: 100%;
 }
 br {
 display: block;
-margin: 2px 0;
+margin: 1px 0;
 }
