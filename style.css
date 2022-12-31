@@ -10,3 +10,8 @@ font-family: 'Helvetica', sans-serif;
 padding: 20px;
 margin: 20px auto;
 }
+img{
+max-width:50%;
+height:auto;
+max-height:50%
+}
