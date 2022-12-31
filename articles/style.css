@@ -12,6 +12,16 @@ margin: 20px auto;
 max-width: 800px;
 Border: 1px solid white;
 }
+.date{
+border-bottom: 1px solid white;
+padding-bottom: 1px;
+font-weight: bold;
+}
+.back{
+border-top: 1px solid white;
+padding-top: 1px;
+font-weight: bold;
+}
 .redindent{
 border-left: 1px solid red;
 padding-left: 1px;
