@@ -13,12 +13,12 @@ max-width: 800px;
 Border: 1px solid white;
 }
 .redindent{
-border-left: 2px solid red;
-padding-left: 2px;
+border-left: 1px solid red;
+padding-left: 1px;
 }
 .blueindent{
-border-left: 2px solid blue;
-padding-left: 2px;
+border-left: 1px solid blue;
+padding-left: 1px;
 }
 p{
 font-size: 1em;
