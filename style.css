@@ -30,10 +30,10 @@ font-size: 1em;
 max-width: 622px;
 }
 a:link{
-color: #33ccff;
+color: #aeb1f5;
 }
 a:visited{
-color: #ff3399;
+color: #f5aedc;
 }
 .avatar{
 display: block;
@@ -67,4 +67,3 @@ br {
 display: block;
 margin: 2px 0;
 }
-
