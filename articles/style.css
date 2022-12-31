@@ -37,7 +37,9 @@ padding-left: 20px;
 p{
 font-size: 1em;
 }
-a:link {color: #33ccff;
+a:link{
+color: #33ccff;
 }
-a:visited {color: #ff3399;
+a:visited{
+color: #ff3399;
 }
