@@ -29,6 +29,12 @@ text-align: center;
 font-size: 0.8em;
 max-width: 622px;
 }
+a:link {
+color: #33ccff;
+}
+a:visited {
+color: #ff3399;
+}
 .avatar{
 display: block;
 float: left;
