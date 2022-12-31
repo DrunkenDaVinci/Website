@@ -52,6 +52,10 @@ padding-top: 5em;
 clear: both;
 display: block;
 width:70%;
-max-width: 622px;
+max-width: 602px;
 text-align: center;
+margin-left: auto;
+margin-right: auto;
+border: 1px solid white;
+padding: 20px
 }
