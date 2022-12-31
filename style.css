@@ -21,11 +21,13 @@ h1{
 display: block;
 text-align: center;
 font-size: 2em;
+max-width: 622px;
 }
 h2{
 display: block;
 text-align: center;
 font-size: 0.8em;
+max-width: 622px;
 }
 .avatar{
 display: block;
