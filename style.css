@@ -1,11 +1,12 @@
 body{
 background-color: black;
+color: white;
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
 width: 80%;
 height: 20%
-font-family: source sans Pro, sans-serif;
+font-family: Helvetica;
 padding: 20px;
 margin: 20px auto;
 }
