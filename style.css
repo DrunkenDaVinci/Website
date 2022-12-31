@@ -45,26 +45,26 @@ max-width: 622px;
 display: block;
 float: right;
 width: 20%;
-max-width: 178px;
+max-width: 168px;
 padding-top: 5em;
 }
 .articles{
 clear: both;
 display: block;
 max-width:70%;
-width: 602px;
+width: 592px;
 text-align: center;
 }
 a{
 display: block;
 border: 1px solid white;
-padding: 20px;
+padding: 15px;
 margin-left: auto;
 margin-right: auto;
-width: 100%;
+width: 90%;
 }
 br {
 display: block;
-margin: 21px 0;
+margin: 15px 0;
 }
 
