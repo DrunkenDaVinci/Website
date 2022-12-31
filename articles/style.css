@@ -10,12 +10,13 @@ font-family: 'Helvetica', sans-serif;
 padding: 20px;
 margin: 20px auto;
 max-width: 800px;
+Border: 1px solid white;
 }
 .redindent{
-border-left: 3px solid red;
-padding-left: 3px;
+border-left: 2px solid red;
+padding-left: 2px;
 }
 .blueindent{
-border-left: 3px solid blue;
-padding-left: 3px;
+border-left: 2px solid blue;
+padding-left: 2px;
 }
