@@ -12,10 +12,10 @@ margin: 20px auto;
 max-width: 800px;
 }
 .redindent{
-border-left: 3px solid red
-padding-left: 3px
+border-left: 3px solid red;
+padding-left: 3px;
 }
 .blueindent{
-border-left: 3px solid blue
-padding-left: 3px
+border-left: 3px solid blue;
+padding-left: 3px;
 }
