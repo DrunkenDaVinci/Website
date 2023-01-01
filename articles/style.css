@@ -18,9 +18,9 @@ border-bottom: 1px solid grey;
 .date{
 display: block;
 font-weight: bold;
-height: 160px;
+height: 80px;
 width: 450px
-font-size: 60px;
+font-size: 35px;
 }
 .thumb{
 float: right;
