@@ -28,6 +28,10 @@ display: block;
 text-align: center;
 font-size: 1em;
 }
+a {
+height: 40px;
+text-align: center;
+}
 a:link{
 color: #aeb1f5;
 }
