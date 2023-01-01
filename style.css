@@ -50,11 +50,12 @@ list-style: none;
 float: left;
 display: block;
 width:20%;
-max-width: 82px;
+max-width: 81px;
 margin-left: 1px;
 height: 40px;
 text-align: center;
 font-size: 1em;
+border: 1px solid white;
 }
 .articles{
 display: block;
@@ -78,7 +79,6 @@ max-width: 280px;
 height: 40px;
 text-align: center;
 font-size: 1em;
-a{
 border: 1px solid white;
 }
 br {
