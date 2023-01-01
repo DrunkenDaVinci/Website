@@ -27,10 +27,10 @@ text-align: center;
 font-size: 1em;
 }
 a:link{
-color: #aeb1f5;
+color: #aeb1f5;
 }
 a:visited{
-color: #f5aedc;
+color: #f5aedc;
 }
 .avatar{
 display: block;
@@ -66,7 +66,8 @@ padding-right: 2px;
 a{
 display: block;
 border: 1px solid white;
-padding: 15px;
+padding-top: 15px;
+padding-bottom: 15px;
 margin-left: auto;
 margin-right: auto;
 width: 100%;
