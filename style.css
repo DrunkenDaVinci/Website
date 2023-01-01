@@ -57,11 +57,10 @@ height: 40px;
 padding: 0px;
 }
 .articles:after{
-display: block;
 float: right;
 width: 40%;
 max-width: 320px;
-text-align: center;
+text-align: left;
 padding-left: 10px;
 padding-right: 20px;
 font-size: 1em;
@@ -74,14 +73,15 @@ margin: 0px;
 .art li{
 display: block;
 width: 100%;
-max-width: 320px;
+max-width: 290px;
 height: 40px;
 font-size: 1em;
-padding-bottom: 1px;
+padding-bottom: 3px;
 }
 a {
 text-align: center;
 border: 1px solid white;
+}
 br {
 display: block;
 margin: 1px 0;
