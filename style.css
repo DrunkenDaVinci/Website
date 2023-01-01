@@ -39,7 +39,7 @@ float: left;
 width: 60%;
 max-width: 480px;
 padding-right: 10px;
-padding-left: 20px;
+padding-left: 0px;
 border-right: 1px solid grey;
 }
 .nav ul{
@@ -67,6 +67,9 @@ font-size: 1em;
 }
 .art ul{
 list-style: none;
+float: right;
+width: 40%;
+max-width: 320px;
 padding: 0px;
 margin: 0px;
 }
