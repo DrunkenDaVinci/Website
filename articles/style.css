@@ -15,6 +15,10 @@ Border: 1px solid white;
 .break{
 border-bottom: 1px solid grey;
 }
+.breakheader{
+border-bottom: 1px solid grey;
+clear: none;
+}
 .date{
 display: block;
 font-weight: bold;
