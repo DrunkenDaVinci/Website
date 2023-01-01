@@ -19,7 +19,7 @@ border-bottom: 1px solid grey;
 display: block;
 font-weight: bold;
 height: 160px;
-text-align: center;
+font-size: 60px;
 }
 .thumb{
 float: right;
