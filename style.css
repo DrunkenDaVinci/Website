@@ -55,6 +55,8 @@ max-width: 84px;
 margin-left: 1px;
 height: 40px;
 padding: 0px;
+text-align: center;
+border: 1px solid white;
 }
 .articles:after{
 float: right;
@@ -67,7 +69,6 @@ font-size: 1em;
 }
 .art ul{
 list-style: none;
-float: right;
 width: 40%;
 max-width: 320px;
 padding: 0px;
@@ -75,15 +76,14 @@ margin: 0px;
 }
 .art li{
 display: block;
+float: right;
 width: 100%;
 max-width: 290px;
 height: 40px;
 font-size: 1em;
-padding-bottom: 3px;
-}
-a {
 text-align: center;
 border: 1px solid white;
+padding-bottom: 3px;
 }
 br {
 display: block;
