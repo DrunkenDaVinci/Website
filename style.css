@@ -35,17 +35,17 @@ color: #f5aedc;
 .avatar{
 display: block;
 float: left;
-width: 70%;
-max-width: 622px;
+width: 60%;
+max-width: 480px;
 padding-top: 20px;
 padding-left: 20px;
 padding-bottom: 20px;
 padding-right: 2px;
+border-right: 1px solid grey;
 }
 .nav{
 display: block;
-width: 70%;
-max-width: 622px;
+max-width: 480px;
 margin-left: auto;
 margin-right: auto;
 text-align: center;
@@ -53,10 +53,12 @@ text-align: center;
 .articles{
 display: block;
 float: right;
-width: 20%;
-max-width: 168px;
+width: 40%;
+max-width: 320px;
 text-align: center;
+padding-top: 20px;
 padding-left: 5px;
+padding-bottom: 20px;
 padding-right: 20px;
 }
 a{
