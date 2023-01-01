@@ -44,12 +44,15 @@ padding-right: 5px;
 border-right: 1px solid grey;
 }
 .nav{
-display: inline-block;
-max-width: 88px;
-margin-left: auto;
-margin-right: auto;
+list-style: none;
+padding: 1px
+}
+.nav li{
+display: block;
+max-width: 78px;
+height: 40px;
 text-align: center;
-font-size: 0.8em
+font-size: 0.7em
 }
 .articles{
 display: block;
