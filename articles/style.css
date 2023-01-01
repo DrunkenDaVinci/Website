@@ -20,11 +20,8 @@ border-bottom: 1px solid grey;
 clear: none;
 }
 .date{
-display: block;
 font-weight: bold;
-height: 160px;
-width: 450px
-font-size: 70px;
+font-size: 80px;
 }
 .thumb{
 float: right;
