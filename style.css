@@ -48,9 +48,10 @@ list-style: none;
 padding: 1px
 }
 .nav li{
+float: left;
 display: block;
 max-width: 78px;
-height: 40px;
+max-height: 40px;
 text-align: center;
 font-size: 1em
 }
