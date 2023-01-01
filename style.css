@@ -39,13 +39,18 @@ float: left;
 width: 60%;
 max-width: 480px;
 padding-right: 10px;
-padding-left: 0px;
+padding-left: 20px;
 border-right: 1px solid grey;
 }
 .nav ul{
+float: left;
 list-style: none;
 padding: 0px;
 margin: 0px;
+width: 60%
+max-width: 480px
+margin right: auto;
+margin left: auto;
 }
 .nav li{
 float: left;
@@ -63,6 +68,7 @@ float: right;
 width: 40%;
 max-width: 320px;
 text-align: left;
+margin-left: 0px;
 padding-left: 10px;
 padding-right: 20px;
 font-size: 1em;
