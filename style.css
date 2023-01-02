@@ -64,19 +64,16 @@ margin-top: 5px;
 float: right;
 max-width: 210px;
 text-align: left;
-padding-left: 9px;
+margin-left: 9px;
 padding-right: 21px;
 }
 .art ul{
 list-style: none;
 display: block;
-float: right;
 max-width: 210px;
-margin-left: 9px;
 }
 .art li{
 display: block;
-float: right;
 text-align: left;
 width: 210px;
 height: 50px;
