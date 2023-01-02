@@ -45,10 +45,12 @@ border-right: 1px solid grey;
 }
 .nav ul{
 list-style: none;
+display: inline;
+float: left;
 }
 .nav li{
 float: left;
-display: inline-block;
+display: inline;
 width: 106px;
 height: 26px;
 text-align: center;
@@ -69,16 +71,22 @@ padding-right: 21px;
 }
 .art ul{
 list-style: none;
+display: block;
+float: right;
+max-width: 210px;
 margin-left: 9px;
 }
 .art li{
 display: block;
+float: right;
 text-align: left;
 width: 210px;
 height: 42px;
 box-sizing: border-box;
 border: white 1px solid;
+padding: 5px;
 margin-bottom: 10px;
+
 }
 br {
 display: block;
