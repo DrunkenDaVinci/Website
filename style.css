@@ -43,20 +43,22 @@ padding-right: 9px;
 padding-left: 20px;
 border-right: 1px solid grey;
 }
-.nav{
-display: table;
-border-collapse: collapse;
+.nav ul{
 list-style: none;
-li{
+}
+.nav li{
 float: left;
+display: inline-block;
 width: 106px;
 height: 26px;
-display: table-cell;
 text-align: center;
 box-sizing: border-box;
-border: white 1px solid;
-margin-bottom: 5px;
+border-right: 1px solid white;
+margin-bottom: 10px;
 }
+ul.nav > li:first-child{ 
+box-sizing: border-box;
+border-left: 1px solid white;
 }
 .articles:after{
 float: right;
@@ -65,20 +67,18 @@ text-align: left;
 padding-left: 9px;
 padding-right: 21px;
 }
-.art{
-display:table;
-border-collapse:collapse;
+.art ul{
 list-style: none;
 margin-left: 9px;
-li{
+}
+.art li{
+display: block;
+text-align: left;
 width: 210px;
 height: 42px;
-display: table-cell;
-text-align: center;
 box-sizing: border-box;
 border: white 1px solid;
 margin-bottom: 10px;
-}
 }
 br {
 display: block;
