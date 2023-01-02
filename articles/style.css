@@ -9,8 +9,6 @@ background-size: cover;
 background-position: center;
 background-attachment: fixed;
 width: 80%;
-height: 20%
-font-family: 'Helvetica', sans-serif;
 padding: 20px;
 margin: 20px auto;
 max-width: 800px;
@@ -55,8 +53,8 @@ p{
 font-size: 1em;
 }
 a:link{
-color: #aeb1f5;
+color: #aeb1f5;
 }
 a:visited{
-color: #f5aedc;
+color: #f5aedc;
 }
