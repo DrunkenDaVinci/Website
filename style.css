@@ -47,18 +47,19 @@ border-right: 1px solid grey;
 display: block;
 float: left;
 list-style: none;
+height: 42px;
 max-width: 530px;
+border: 1px solid white;
 }
 .nav li{
 float: left;
 display: block;
-height: 42px;
-width: 100px;
+width: 98px;
 margin-left: 5px;
 margin-bottom; 5px;
 text-align: center;
 vertical-align: middle;
-border: 1px solid white;
+border-right: 1px solid white;
 }
 .articles:after{
 float: right;
