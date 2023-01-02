@@ -17,13 +17,13 @@ padding-bottom: 20px;
 img{
 display: block;
 max-width: 450px;
-padding-bottom: 5px;
+padding-bottom: 10px;
 }
 h1{
 display: block;
 text-align: center;
 font-size: 2em;
-padding-bottom; 5px;
+padding-bottom: 5px;
 }
 h2{
 display: block;
@@ -48,13 +48,12 @@ display: block;
 float: left;
 list-style: none;
 max-width: 450px;
-padding-bottom: 5px;
 }
 .nav li{
 float: left;
 display: block;
 height: 40px;
-max-width: 74px;
+width: 74px;
 margin-left: 1px;
 text-align: center;
 border: 1px solid white;
@@ -76,12 +75,12 @@ max-width: 290px;
 .art li{
 display: block;
 float: right;
-max-width: 288px;
+width: 288px;
 height: 40px;
 font-size: 1em;
+margin-left; 0px;
 text-align: left;
 border: 1px solid white;
-padding-bottom: 5px;
 }
 br {
 display: block;
