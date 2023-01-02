@@ -20,13 +20,16 @@ max-width: 530px;
 padding-bottom: 10px;
 }
 h1{
-display: block;
-text-align: center;
 font-size: 2em;
 padding-bottom: 5px;
 }
+.title1{
+text-align: center;
+}
+.title2{
+text-align: left;
+}
 h2{
-display: block;
 text-align: center;
 font-size: 1em;
 }
