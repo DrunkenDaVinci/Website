@@ -38,7 +38,7 @@ color: #f5aedc;
 }
 .avatar{
 float: left;
-max-width: 526px;
+max-width: 530px;
 padding-right: 9px;
 padding-left: 20px;
 border-right: 1px solid grey;
@@ -47,22 +47,22 @@ border-right: 1px solid grey;
 display: block;
 float: left;
 list-style: none;
-max-width: 526px;
+max-width: 530px;
 }
 .nav li{
 float: left;
 display: block;
 height: 42px;
-width: 104px;
-margin-left: 1px;
+width: 100px;
+margin-left: 5px;
+margin-bottom; 5px;
 text-align: center;
 vertical-align: middle;
 border: 1px solid white;
-margin-bottom; 1px;
 }
 .articles:after{
 float: right;
-max-width: 214px;
+max-width: 210px;
 text-align: left;
 padding-left: 9px;
 padding-right: 21px;
@@ -71,12 +71,12 @@ padding-right: 21px;
 display: block;
 float: right;
 list-style: none;
-max-width: 214px;
+max-width: 210px;
 }
 .art li{
 display: block;
 float: right;
-width: 202px;
+width: 198px;
 height: 42px;
 font-size: 1em;
 padding-left: 5px;
