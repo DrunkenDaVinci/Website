@@ -66,14 +66,14 @@ border-left: 1px solid white;
 .articles:after{
 float: right;
 max-width: 210px;
-padding: 0px;
-margin: 0px;
+margin-right: 30px
 }
 .art ul{
 float: right;
 list-style: none;
 display: block;
 max-width: 210px;
+margin-right: 30px
 }
 .art li{
 float: right;
