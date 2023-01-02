@@ -60,7 +60,7 @@ border-right: 1px solid white;
 margin-bottom: 10px;
 margin-top: 5px;
 }
-.nav li:first-child{
+ul.nav li:first-child:before{
 border-left: 1px solid white;
 }
 .articles:after{
