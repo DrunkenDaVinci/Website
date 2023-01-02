@@ -16,7 +16,7 @@ padding-bottom: 20px;
 }
 img{
 display: block;
-max-width: 450px;
+max-width: 530px;
 padding-bottom: 10px;
 }
 h1{
@@ -38,7 +38,7 @@ color: #f5aedc;
 }
 .avatar{
 float: left;
-max-width: 450px;
+max-width: 530px;
 padding-right: 9px;
 padding-left: 20px;
 border-right: 1px solid grey;
@@ -47,13 +47,13 @@ border-right: 1px solid grey;
 display: block;
 float: left;
 list-style: none;
-max-width: 450px;
+max-width: 530px;
 }
 .nav li{
 float: left;
 display: block;
 height: 40px;
-width: 92px;
+width: 105px;
 margin-left: 1px;
 text-align: center;
 vertical-align: middle;
@@ -61,7 +61,7 @@ border: 1px solid white;
 }
 .articles:after{
 float: right;
-max-width: 290px;
+max-width: 210px;
 text-align: left;
 padding-left: 9px;
 padding-right: 21px;
@@ -70,13 +70,12 @@ padding-right: 21px;
 display: block;
 float: right;
 list-style: none;
-width: 40%;
-max-width: 290px;
+max-width: 210px;
 }
 .art li{
 display: block;
 float: right;
-width: 288px;
+width: 208px;
 height: 40px;
 font-size: 1em;
 margin-left: 0px;
