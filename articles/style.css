@@ -36,6 +36,12 @@ font-weight: bold;
 font-size: 40px;
 padding-top: 60px;
 }
+.head{
+display: block;
+font-weight: bold;
+font-size: 32px;
+padding-top: 8px;
+}
 .thumb{
 display: inline-block;
 float: right;
