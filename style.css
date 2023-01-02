@@ -69,11 +69,13 @@ margin-left: 9px;
 padding-right: 21px;
 }
 .art ul{
+float: right;
 list-style: none;
 display: block;
 max-width: 210px;
 }
 .art li{
+float: right;
 display: block;
 text-align: left;
 width: 210px;
