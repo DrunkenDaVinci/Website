@@ -15,18 +15,18 @@ max-width: 800px;
 Border: 1px solid white;
 }
 p{
-margin-top: 12px;
-margin-bottom: 12px;
+margin-top: 16px;
+margin-bottom: 16px;
 font-size: 1em;
 }
 .break{
 border-bottom: 1px solid grey;
-margin-top: 12px;
-margin-bottom: 12px;
+margin-top: 16px;
+margin-bottom: 16px;
 }
 .breakheader{
 border-bottom: 1px solid white;
-margin-top: 8px;
+margin-top: 4px;
 margin-bottom: 20px;
 clear: none;
 }
