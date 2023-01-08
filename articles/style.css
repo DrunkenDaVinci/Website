@@ -15,8 +15,8 @@ max-width: 800px;
 Border: 1px solid white;
 }
 p{
-margin-top: 16px;
-margin-bottom: 16px;
+margin-top: 1em;
+margin-bottom: 1em;
 font-size: 1em;
 line-height: 1.5em;
 }
