@@ -42,6 +42,7 @@ display: block;
 font-weight: bold;
 font-size: 32px;
 padding-top: 8px;
+line-height: 1.2em;
 }
 .thumb{
 display: inline-block;
